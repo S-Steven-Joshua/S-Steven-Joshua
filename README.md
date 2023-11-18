@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S-Steven-Joshua 
 - 👀 I’m interested in coding,electronics and learning new things.
-- 🌱 I’m currently learning Electronics and Communication Engineering.
-- 💞️ I’m looking to collaborate on currently none
+- 🌱 I’m currently learning Electronics and Communication Engineering.(1st year)
+- 💞️ I’m looking to collaborate with either programming stuff or IC.
 - 📫 How to reach me stevejoshua989@gmail.com
 
 <!---
