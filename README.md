@@ -4,11 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=4th+Year+ECE+Student;RTL+Design+%7C+SoC+Design;RISC-V+%7C+SystemVerilog+%7C+Verification;Building+chips%2C+one+register+at+a+time" alt="Typing SVG" />
 </p>
 
-```bash
-$ whoami
-```
+### 🔍 About Me
 
-> 4th year ECE student passionate about **RTL design** and **SoC design**. I like taking silicon from spec to simulation — writing clean, verifiable RTL and chasing down bugs in waveforms until they make sense. Currently deep in RISC-V based SoC integration and digital verification workflows.
+4th year ECE student passionate about **RTL design** and **SoC design**. I like taking silicon from spec to simulation — writing clean, verifiable RTL and chasing down bugs in waveforms until they make sense. Currently deep in RISC-V based SoC integration and digital verification workflows.
 
 ---
 
@@ -33,22 +31,26 @@ $ whoami
 
 ---
 
-### 🔧 Current Project
+### 🎯 Focus Areas
 
-**JS SoC — RISC-V Single Processor SoC**
-A System-on-Chip built around a single RISC-V processor core, integrating three peripheral protocols over **APB**. Fully coded from scratch (with select reference material), covering processor integration, bus protocol design, and peripheral interfacing.
+**RTL Design**
+Writing synthesizable, clean SystemVerilog/Verilog for digital modules — from datapath and control logic to full block-level architecture.
 
-- 🧩 RISC-V single-core processor integration
-- 🔌 APB-based interconnect for 3 peripheral protocols
-- 🛠️ Hand-coded RTL with architectural references
+**Verification**
+Building testbenches and test-vector generation flows (including custom Java-based utilities) to validate RTL behavior against spec, using ModelSim and EDA Playground for simulation.
+
+**SoC Integration**
+Designed and implemented a complete SoC around a single-core **RISC-V** processor, with a custom **APB**-based interconnect bridging three peripheral protocols — covering processor integration, bus protocol design, and peripheral interfacing end-to-end.
+
+`RISC-V` `APB` `SoC Architecture` `SystemVerilog` `RTL-to-Simulation Flow`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=S-Steven-Joshua&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Steven-Joshua&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=S-Steven-Joshua&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Steven-Joshua&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -71,8 +73,3 @@ A System-on-Chip built around a single RISC-V processor core, integrating three 
 ---
 
 <p align="center"><i>⚡ Always debugging something — either RTL or life.</i></p>
-
-<!---
-S-Steven-Joshua/S-Steven-Joshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
