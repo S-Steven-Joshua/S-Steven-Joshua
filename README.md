@@ -37,25 +37,12 @@
 Writing synthesizable, clean SystemVerilog/Verilog for digital modules — from datapath and control logic to full block-level architecture.
 
 **Verification**
-Building testbenches and test-vector generation flows (including custom Java-based utilities) to validate RTL behavior against spec, using ModelSim and EDA Playground for simulation.
+Building testbenches and test-vector generation flows to validate RTL behavior against spec, using ModelSim and EDA Playground for simulation.
 
-**SoC Integration**
-Designed and implemented a complete SoC around a single-core **RISC-V** processor, with a custom **APB**-based interconnect bridging three peripheral protocols — covering processor integration, bus protocol design, and peripheral interfacing end-to-end.
+**SoC & Digital Systems**
+Interested in processor integration, on-chip bus protocols, and how individual RTL blocks come together into a working system-on-chip.
 
-`RISC-V` `APB` `SoC Architecture` `SystemVerilog` `RTL-to-Simulation Flow`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=S-Steven-Joshua&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Steven-Joshua&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Steven-Joshua&theme=radical&hide_border=true" />
-</p>
+`RTL Design` `Verification` `SoC Architecture` `SystemVerilog` `Digital Design`
 
 ---
 
