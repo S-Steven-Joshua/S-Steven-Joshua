@@ -37,7 +37,7 @@
 Writing synthesizable, clean SystemVerilog/Verilog for digital modules — from datapath and control logic to full block-level architecture.
 
 **Verification**
-Building testbenches and test-vector generation flows to validate RTL behavior against spec, using ModelSim and EDA Playground for simulation.
+Building testbenches and test-vector generation flows to validate RTL behavior against spec, using EDA Playground for simulation.
 
 **SoC & Digital Systems**
 Interested in processor integration, on-chip bus protocols, and how individual RTL blocks come together into a working system-on-chip.
